@@ -3,7 +3,7 @@
 
 The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048; however, you can keep playing the game, creating tiles with larger numbers (such as a 32,768 tile).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/2048_Screenshot.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/2048_Screenshot.png" width=480 height=320>
 
 <b>Font</b>: <i>Wikipédia</i>
 
