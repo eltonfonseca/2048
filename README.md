@@ -26,7 +26,7 @@ Compiler with GNU GCC Compiler and run.
 $ gcc game2048.c -o game
 $ ./game
 ```
-<img src="https://image.ibb.co/kwSzW6/Screenshot_from_2018_02_02_18_13_57.png" width=200 height=100>
+<img src="https://image.ibb.co/kwSzW6/Screenshot_from_2018_02_02_18_13_57.png" width=480 height=320>
 
 ### License 
 
