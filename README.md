@@ -14,7 +14,7 @@ The game's objective is to slide numbered tiles on a grid to combine them to cre
 
 ### How to Play
 
-Download this repository and acess directory.
+Download this repository and access directory.
 
 ```
 $ git clone https://github.com/eltonfonseca/2048.git
